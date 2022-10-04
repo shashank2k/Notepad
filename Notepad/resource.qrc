@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/res">
+        <file>rec/document.png</file>
+        <file>rec/files-copy-interface-symbol.png</file>
+        <file>rec/new-file.png</file>
+        <file>rec/notepad.png</file>
+        <file>rec/paste.png</file>
+        <file>rec/redo-arrow-symbol.png</file>
+        <file>rec/save.png</file>
+        <file>rec/save-as.png</file>
+        <file>rec/scissors.png</file>
+        <file>rec/share.png</file>
+        <file>rec/undo-arrow.png</file>
+    </qresource>
+</RCC>
